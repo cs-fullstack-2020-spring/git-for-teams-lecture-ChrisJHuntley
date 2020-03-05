@@ -2,7 +2,11 @@
 
 ### Branching
 * Create a new branch called `edit-read-me`
+<<<<<<< HEAD
 *  Trying to create a conflict
+=======
+*  Yessirr
+>>>>>>> 95dcff8d34e58a84060a3d6e42826fbc5d00f021
 * Add a message to the end of your `README.md` file
 * Push the local changes to your branch
 
